@@ -6,7 +6,7 @@
 #include <queue>
 #define MAXN 100
 using namespace std;
-
+//asdfasd 
 int visited[MAXN + 1];
 
 //邻接表定义类型
