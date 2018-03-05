@@ -1,12 +1,7 @@
-/*******************************************************************************************
-【DFS】
-Author:tmw
-date:2018-2-19
-********************************************************************************************/
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdbool.h>
-
+#include <cstdio>
+#include <cstdlib>
+#include <cstdbool>
+using namespace std;
 
 #define MAX_VERTEX 100
 #define inf 65535  //表示两点之间没有边相连
