@@ -1,2 +1,2 @@
-# sync
-代码同步
+# DSA CourseDesign
+Data Structure and Algorithm Course Design Code Synchronization
